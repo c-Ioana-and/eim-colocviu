@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "eim-colocviu"
 include(":app")
- 
+include(":secondactivity")
